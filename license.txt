@@ -1,0 +1,6 @@
+License
+Please do not distribute or publish solutions to this
+project. You are free to use and extend these project
+for educational purposes. The Viola Jones face detection
+project were developed at National Yang Ming Chiao Tung
+University, primarily by Zhou, Qian-Mao.
